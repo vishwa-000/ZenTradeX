@@ -32,7 +32,7 @@ function Login() {
 
     alert("Login Successful");
 
-    window.location.href = "http://localhost:3001";
+    window.location.href = "http://localhost:3000";
 
   };
 

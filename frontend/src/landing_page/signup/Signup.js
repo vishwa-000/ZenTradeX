@@ -31,7 +31,7 @@ function Signup() {
 
   alert("Signup Successful");
 
-  window.location.href = "http://localhost:3001";
+  window.location.href = "http://localhost:3001/login";
 
 };
 
